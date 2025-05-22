@@ -38,3 +38,7 @@ Frontend	React.js, Tailwind CSS, Axios
 Backend	Node.js, Express.js
 Database	MongoDB (Local or Atlas)
 Tools	Git, VS Code, Postman
+
+
+
+
